@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Kuba's Village.unity
+- path: Assets/Scenes/Kuba's Village.unity
   isLoaded: 1
   isActive: 1
